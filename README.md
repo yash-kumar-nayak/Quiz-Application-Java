@@ -109,3 +109,6 @@ Find below the Answers Array of the above Questions
         answers[8][1] = "java.lang.StringBuilder";
         answers[9][1] = "Bytecode is executed by JVM";
         
+![Screenshot (28)](https://user-images.githubusercontent.com/114598638/235506258-a5c6b821-09d4-4d46-855a-b38369ae5e1f.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/114598638/235506275-f94afb80-8717-4267-a577-b51f0959c14b.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/114598638/235506285-56648524-8d21-44e1-bcdf-9de1c7a060f3.png)
